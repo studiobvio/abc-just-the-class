@@ -2,7 +2,7 @@
 name: Will Martin
 role: facilitator
 email: will@studiobvio.com
-website: https://kevinl.info
+website: https://www.linkedin.com/in/william-martin-62034114/
 photo: willMARTIN.jpg
 ---
 
