@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ABC School Just the Class
-tagline: A platform for evolving spatial litteracy
-description: A web-based platform for evolving spatial litteracy to collectively build futures beyond capitalism
+tagline: A platform for evolving spatial literacy
+description: A web-based platform for evolving spatial literacy to collectively build futures beyond capitalism
 author: the Architecture Lobby
-baseurl: '/abc-just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://studiobvio.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/abc-just-the-class" # the subpath of your site, e.g. /blog
+url: "https://studiobvio.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Kevin Lin:
-    - 'https://kevinl.info'
+    - "https://kevinl.info"
   Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+    - "https://github.com/kevinlin1/just-the-class"
 footer_content:
 
 # Collections for website data
@@ -43,23 +43,23 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement
