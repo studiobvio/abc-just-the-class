@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
+name: Will Martin
+role: facilitator
+email: will@studiobvio.com
 website: https://kevinl.info
-photo: kevin.jpg
+photo: willMARTIN.jpg
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
