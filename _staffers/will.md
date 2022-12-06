@@ -1,6 +1,6 @@
 ---
 name: Will Martin
-role: facilitator
+role: Instructor
 email: will@studiobvio.com
 website: https://www.linkedin.com/in/william-martin-62034114/
 photo: willMARTIN.jpg
